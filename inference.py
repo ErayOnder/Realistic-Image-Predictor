@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import random
 
 def load_model(model, model_path, device):
-    model.load_state_dict(torch.load("best_model.pth"))
+    model.load_state_dict(torch.load(model_path))
     model.to(device)
     model.eval()
     return model

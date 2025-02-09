@@ -1,0 +1,53 @@
+
+=====Training resnet18_2000 for 15 epochs...=====
+Epoch 1/15
+Train Loss: 0.4093 - Val Loss: 0.0388
+Val Metrics --> MSE: 0.0388 | MAE: 0.1578 | R2: -0.9882
+
+Epoch 2/15
+Train Loss: 0.0239 - Val Loss: 0.0220
+Val Metrics --> MSE: 0.0220 | MAE: 0.1241 | R2: -0.1285
+
+Epoch 3/15
+Train Loss: 0.0242 - Val Loss: 0.0215
+Val Metrics --> MSE: 0.0215 | MAE: 0.1215 | R2: -0.0987
+
+Epoch 4/15
+Train Loss: 0.0225 - Val Loss: 0.0305
+Val Metrics --> MSE: 0.0305 | MAE: 0.1430 | R2: -0.5599
+
+Epoch 5/15
+Train Loss: 0.0212 - Val Loss: 0.0260
+Val Metrics --> MSE: 0.0260 | MAE: 0.1324 | R2: -0.3330
+
+Epoch 6/15
+Train Loss: 0.0222 - Val Loss: 0.0249
+Val Metrics --> MSE: 0.0249 | MAE: 0.1304 | R2: -0.2752
+
+Epoch 7/15
+Train Loss: 0.0197 - Val Loss: 0.0194
+Val Metrics --> MSE: 0.0194 | MAE: 0.1153 | R2: 0.0073
+
+Epoch 8/15
+Train Loss: 0.0167 - Val Loss: 0.0217
+Val Metrics --> MSE: 0.0217 | MAE: 0.1222 | R2: -0.1113
+
+Epoch 9/15
+Train Loss: 0.0151 - Val Loss: 0.0221
+Val Metrics --> MSE: 0.0221 | MAE: 0.1214 | R2: -0.1310
+
+Epoch 10/15
+Train Loss: 0.0124 - Val Loss: 0.0209
+Val Metrics --> MSE: 0.0209 | MAE: 0.1203 | R2: -0.0715
+
+Epoch 11/15
+Train Loss: 0.0114 - Val Loss: 0.0274
+Val Metrics --> MSE: 0.0274 | MAE: 0.1327 | R2: -0.4026
+
+Epoch 12/15
+Train Loss: 0.0114 - Val Loss: 0.0205
+Val Metrics --> MSE: 0.0205 | MAE: 0.1152 | R2: -0.0487
+
+Early stopping triggered.
+
+=====Training resnet18_2000 Completed.=====
